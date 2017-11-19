@@ -5,7 +5,7 @@ var About = (props) => {
     return (
         <div>
             <h1 className="text-center page-title">About</h1>
-           <p> Welcome Abishek!</p>
+           <p>I am Abishek!</p>
         </div>
     );
 };
